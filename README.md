@@ -21,7 +21,6 @@ I'm a continuous learner, currently pursuing postgraduate studies in Software De
 
 ### 🏆 Achievements
 - **Full-stack Java Developer Certification:** Completed an intensive program at Codecool (2022 – 2023), focusing on both backend and frontend technologies.
-- **Leadership:** Successfully managed multidisciplinary R&D teams, fostering innovation and ensuring timely project delivery.
 
 ### 🤝 Collaboration
 I'm open to collaborating on projects that align with my interests, especially those involving interdisciplinary engineering challenges. I value teamwork and believe in the power of diverse perspectives to drive innovation.
