@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Piotr Poloczek
 
-**Email:** piotr.poloczek@mail.com | **Phone:** +48 534-877-328 | **Location:** Knurów, Silesia, Poland
+**Email:** piotr.poloczek@mail.com | **Phone:** +48 534-877-328 | **Location:** Orzesze, Silesia, Poland
 
 ---
 
