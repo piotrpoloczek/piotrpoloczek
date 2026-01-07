@@ -25,8 +25,6 @@ Mechatronics / software engineer with **5+ years of experience** in **medical de
 
 ## Selected projects
 
-## Selected projects
-
 ### Multisensory Therapy Table (medical device)
 - Multisensory rehabilitation device combining **upper-limb motor therapy** with **cognitive training** (attention, memory, problem-solving)  
 - Supports **personalized therapy** based on test results and progress, daily-activity attachments, optional **VR/biofeedback**, and integration with therapist database/other rehab devices
@@ -34,10 +32,6 @@ Mechatronics / software engineer with **5+ years of experience** in **medical de
 ### Pediatric Exoskeleton (concept / prototype)
 - Concept development with focus on ergonomics, safety, adjustability  
 - Prepared design for future sensor/actuator integration and control system constraints
-
----
-
-## Experience
 
 
 ---
